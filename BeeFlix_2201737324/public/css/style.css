@@ -1,0 +1,115 @@
+body {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+
+/* CSS MOVIE LIST */
+h2 {
+    color: white;
+}
+
+#movieTitle {
+    color: black;
+}
+
+#btnMovie {
+    width: 100%;
+}
+
+#container1 {
+    background-color: #D4DAEC;
+    padding: 40px 35px 30px 35px;
+    margin: 20px 15px 40px 15px;
+    border-radius: 0.5rem;
+}
+
+#container2 {
+    background-color: #3A3C40;
+    padding: 0 20px 30px 20px;
+    border-radius: 0.5rem;
+}
+
+#movieGenre {
+    padding-top: 35px;
+}
+
+#movieList {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+#movieList .row {
+    display: inline-block;
+}
+
+.card {
+    display: inline-block;
+}
+
+/* CSS NAVBAR */
+#conNav {
+    padding-top: 25px;
+    padding-left: 20px;
+}
+
+#btnDark {
+    border-radius: 5%;
+    float: right;
+    margin-right: 35px;
+}
+
+/* CSS MOVIE DETAIL */
+#containerDetails {
+    padding: 40px 40px 10px 0;
+}
+
+#imgDetail {
+    width: 400px;
+    height: 600px;
+}
+
+h3,
+h4,
+th,
+td {
+    color: white;
+}
+
+#star {
+    color: gold;
+}
+
+p {
+    color: white;
+    line-height: 1.5;
+    padding-top: 10px;
+}
+
+table {
+    margin-top: 30px;
+}
+
+#category {
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/* CSS FOOTER */
+.footer {
+    text-align: center;
+}
