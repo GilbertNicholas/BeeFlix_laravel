@@ -12,9 +12,9 @@ This website is an imitation of netflix, which provide movies to choose for deta
 You can run this project by laravel command php artisan serve
 
 ## Project's Preview
-<p align="center"><img src="Home 1 (Night Mode).png"></p><br>
-<p align="center"><img src="Home 3.png"></p><br>
-<p align="center"><img src="MovieDetail 1 (Night Mode).png"></p><br>
+<p align="center"><img src="Home1 (Night Mode).png"></p><br>
+<p align="center"><img src="Home3.png"></p><br>
+<p align="center"><img src="MovieDetail1 (Night Mode).png"></p><br>
 <p align="center"><img src="MovieGenre.png"></p><br>
 
 ## Technologies
